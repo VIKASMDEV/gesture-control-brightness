@@ -1,5 +1,5 @@
-## [Gesture Control Brightness]
-(pic.jpg.png)
+## Gesture Control Brightness
+
 
 ### Overview
 
