@@ -20,6 +20,7 @@ Make sure you have the following dependencies installed:
 - OpenCV
 - MediaPipe
 - screen_brightness_control
+- handtracking module
 
 Install the dependencies using the following command:
 
